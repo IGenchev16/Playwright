@@ -1,0 +1,33 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "typescript",
+    "playwright",
+    "QA Automation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.procreditbank.bg:8443/scm/pat/ts-pl-learning.git"
+  },
+  "license": "",
+  "author": "Vladimir Chernev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@faker-js/faker": "^10.1.0",
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1",
+    "@typescript-eslint/eslint-plugin": "^8.47.0",
+    "@typescript-eslint/parser": "^8.47.0",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^16.5.0",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.47.0"
+  }
+}
